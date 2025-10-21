@@ -1,0 +1,13 @@
+    The Terminal is a place where a user can use commands that interacts with the operating 
+system, typically uses Linux/Unix syntax. If used correctly, it's faster than using a mouse when
+it comes to navigating around directories and pushing code to share online.
+
+    GitHub is the website platform that allows developers to share their repositories and projects,
+while Git is a tool thats used to make changes or keeps track of different versions of code. Git can
+be used by itself but GitHub cannot be used without Git.
+
+    Forking is basically creating another branch of public repository on GitHub. 
+1. Goto GitHub
+2. Goto the repository you wish to copy or fork 
+3. Click fork in the middle right
+4. click create fork
